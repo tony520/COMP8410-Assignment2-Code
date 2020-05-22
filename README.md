@@ -1,5 +1,8 @@
 # COMP8410-Assignment2-Code
 COMP8410-Assignment2-Code-2020S1-TAO NI
 
+#### Original data: [ANUPoll2018Data (.csv)](ANUPoll2018Data_CSV_01428.csv)
+
 #### Pre-processing script: [preprocessing.py](preprocessing.py)
-#### Processed data corpus: [Processed data corpus](preprocessing_data.csv)
+#### Processed data corpus: [Processed data corpus (.csv)](preprocessing_data.csv)
+
