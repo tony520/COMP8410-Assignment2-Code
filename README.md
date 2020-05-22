@@ -7,3 +7,7 @@ COMP8410-Assignment2-Code-2020S1-TAO NI
 #### Processed data corpus: [Processed data corpus (.csv)](preprocessing_data.csv)
 
 #### Multi-Output classification model code: [MultipleOutputClassificationQ4.py](MultipleOutputClassificationQ4.py)
+
+#### Trust level prediction model code: [NeuralNetsQ8.py](NeuralNetsQ8.py)
+
+#### Association mining: [AssociationMiningQ1.ipynb](AssociationMining.ipynb)
