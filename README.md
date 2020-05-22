@@ -8,6 +8,6 @@ COMP8410-Assignment2-Code-2020S1-TAO NI
 
 #### Multi-Output classification model code: [MultipleOutputClassificationQ4.py](MultipleOutputClassificationQ4.py)
 
-#### Trust level prediction model code: [NeuralNetsQ8.py](NeuralNetsQ8.py)
+#### Trust level prediction model code: [NeuralNetsQ8.py](NeuralNetsQ8.R)
 
 #### Association mining: [AssociationMiningQ1.ipynb](AssociationMining.ipynb)
