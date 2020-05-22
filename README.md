@@ -1,5 +1,11 @@
 # COMP8410-Assignment2-Code
-COMP8410-Assignment2-Code-2020S1-TAO NI
+
+This repository contains the code of Assignment 2 COMP8410 - 2020 S1
+
+Author: Tao Ni
+
+UID: u6788943
+
 
 #### Original data: [ANUPoll2018Data (.csv)](ANUPoll2018Data_CSV_01428.csv)
 
@@ -10,4 +16,7 @@ COMP8410-Assignment2-Code-2020S1-TAO NI
 
 #### Trust level prediction model code: [NeuralNetsQ8.R](NeuralNetsQ8.R)
 
-#### Association mining: [AssociationMiningQ1.ipynb](AssociationMining.ipynb)
+#### Association mining: [AssociationMiningQ1.ipynb](AssociationMiningQ1.ipynb)
+
+
+The code link has been attached in the Appendix of report
